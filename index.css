@@ -1,0 +1,43 @@
+a{
+    color: #f00
+}
+a:link{
+    color: #00f
+}
+a:hover{
+    color: #fff
+}
+a:visited{
+    color: #000
+}
+a:active{
+    color: #f00
+}
+.link{
+    font-weight: bold;
+}
+li:first-child, li:last-child, li:nth-child(odd){
+    background-color: #ff0
+}
+li:nth-child(even){
+    background-color: #f00
+}
+.useless{
+    cursor: pointer;
+    font-size: large;
+    background-color: red;
+    font-size: 100px;
+    position: relative;
+    top: 0px;
+    left: 50px;
+    
+}
+.useless:hover{
+    background-color: #f2d4e345
+}
+.randombuttonDiv{
+    border: 5px solid black;
+    position: relative;
+    top: 0;
+    left: 0;
+}

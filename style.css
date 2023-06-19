@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+footer{
+    text-align: center;
+}
+nav{
+    font-size: 22px;
+    line-height: 3;
+    background-color: #232F3E;
+    text-align: center;
+}
+p{
+    font-size: 20px; 
+    margin: 10px;
+}
+.ProductLabelCarrot{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold
+}
+.image{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-weight: normal;
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.Navigation:hover{
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.Navigation{
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+}
+.price{
+    font-size: 30px;
+    text-align: center;
+}
+.shipping{
+    font-size: 23px;
+    background-color: yellow;
+    display: inline;
+}
+.shippingdiv{
+    text-align: center;
+}
+.btn{
+    font-size: 30px;
+    background-color: orange;
+    cursor: pointer;
+    border: 2px solid orange;
+    border-radius: 40px;
+    width: 100%;
+}
+.btn:active{
+    background-color: rgb(255, 192, 75);
+    border: 2px solid rgb(255, 192, 75);
+}
+.removeUnderline{
+    text-decoration: none;
+}
+.Center{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+}
+.Description{
+    padding: 2px;
+    text-align: center;
+}
+.CarrotPicture{
+    width: 200px;
+    height: 200px;
+}
+.CarrotPictureDiv{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
