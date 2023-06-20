@@ -18,7 +18,7 @@ This is a repository for Web Development notes.
 * Body tag - body of the page. (<body></body>)
 * Nav tag - a sementic tag that targets the navigation bar.(<nav></nav>)
 * Header tag - a sementic tag that targets the heading. (<header></header>) 
-* Heading tag - makes a heading. (<h1>, <h2>, <h3>, <h4>, <h5>, and <h6>)
+* Heading tag - makes a heading. (<h1></h1>, <h2></h2>, <h3></h3>, <h4></h4>, <h5></h5>, and <h6></h6>)
 * Doctype HTML - shows that the current document is HTML.  (<!DOCTYPE html>)
 * Button tag - makes a button. (<button></button>)
 * Anchor tag - makes a hyperlink. (<a href="examplelink.com">example text</a>)
