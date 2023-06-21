@@ -5,9 +5,9 @@
 ##### Web Development notes
 ###### Web Development notes
 
-This is a repository for Web Development notes. 
+**This is a repository for storing my web development notes.**
 
-### What are all the topics I have learned? I will be including both CSS and HTML.
+### These are all the topics I have learned. I will be including both CSS and HTML.
 
 #### Tags:
 * Strong/Bold tag - make text bolded. (strong /strong)
