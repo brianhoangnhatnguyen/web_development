@@ -9,7 +9,7 @@
 
 ### These are all the topics I have learned. I will be including both CSS and HTML.
 
-#### Tags &nbsp;&nbsp;<img src="https://cdn3.emoji.gg/emojis/3773-active-developer-badge-animated.gif" width="30" height="30">:
+#### Tags &nbsp;<img src="https://cdn3.emoji.gg/emojis/3773-active-developer-badge-animated.gif" width="30" height="30">:
 * Strong/Bold tag - make text bolded. (strong /strong)
 * Emphasize/Italicize tag - make text italicized. (em /em)
 * Div tag - used for putting elements in a box. (div /div)
