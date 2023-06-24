@@ -1,13 +1,13 @@
 # Web Development notes
 ## Web Development notes
-### Web Development notes <img align=right src="https://www.lighthouselabs.ca/uploads/post/open_graph_image/459/Coding-vs-programming.jpg">
+### Web Development notes <img align='right' src="https://www.lighthouselabs.ca/uploads/post/open_graph_image/459/Coding-vs-programming.jpg" width="250" height="200">
 #### Web Development notes
 ##### Web Development notes
 ###### Web Development notes
 
 **This is a repository for storing my web development notes.**
 
-### These are all the topics I have learned. I will be including both CSS and HTML.
+### Here are all the topics I've learned. I will be including both CSS and HTML.
 
 ## Tags &nbsp;<img src="https://cdn3.emoji.gg/emojis/3773-active-developer-badge-animated.gif" width="30" height="30">:
 * Strong/Bold tag - make text bolded. (strong /strong)
