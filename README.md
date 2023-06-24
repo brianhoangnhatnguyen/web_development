@@ -27,7 +27,7 @@
 * Ordered list tag - makes an ordered list. It can be ordered in (ol /ol)
 * Unordered list tag - makes an unordered list. 
 
-#### Topics other than tags:
+#### Other topics:
 * RGB - red, blue, green. (**red, blue, green**)
 * RGBA - red blue, green, alpha. Alpha is opacity. (**red, blue, green, alpha**)
 * Hexadecimal (color) - uses 16 characters: 10 numbers(0-9) and 6 alphabets(A-F). (#f00)
