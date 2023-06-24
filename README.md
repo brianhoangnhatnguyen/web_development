@@ -9,7 +9,7 @@
 
 ### These are all the topics I have learned. I will be including both CSS and HTML.
 
-#### Tags &nbsp;<img src="https://cdn3.emoji.gg/emojis/3773-active-developer-badge-animated.gif" width="30" height="30">:
+## Tags &nbsp;<img src="https://cdn3.emoji.gg/emojis/3773-active-developer-badge-animated.gif" width="30" height="30">:
 * Strong/Bold tag - make text bolded. (strong /strong)
 * Emphasize/Italicize tag - make text italicized. (em /em)
 * Div tag - used for putting elements in a box. (div /div)
@@ -27,7 +27,7 @@
 * Ordered list tag - makes an ordered list. It can be ordered in (ol /ol)
 * Unordered list tag - makes an unordered list. 
 
-#### Other topics:
+## Other topics:
 * RGB - red, blue, green. (**red, blue, green**)
 * RGBA - red blue, green, alpha. Alpha is opacity. (**red, blue, green, alpha**)
 * Hexadecimal (color) - uses 16 characters: 10 numbers(0-9) and 6 alphabets(A-F). (#f00)
