@@ -36,7 +36,7 @@
 
 * Paragraph tag - makes a paragraph. (p /p)
 
-* Image tag - displays an image. The image tag is self closing. (img src="https:://www.examplelink.com/examplelink․png")
+* Image tag - displays an image. The image tag is self closing. (img src="https:://www.examplelink․com/examplelink․png")
 
 * Ordered list tag - makes an ordered list. There are 5 types of ordered lists. "1", "A", "a", "I", and "i". You can give it a type using *type="".*  (ol /ol) or (ol type="" /ol)
 
