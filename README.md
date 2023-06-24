@@ -1,6 +1,6 @@
 # Web Development notes
 ## Web Development notes
-### Web Development notes <img align='right' src="https://www.lighthouselabs.ca/uploads/post/open_graph_image/459/Coding-vs-programming.jpg" width="350" height="250">
+### Web Development notes <img align='right' src="https://images.ctfassets.net/mrop88jh71hl/1GlQXrW5HeOyJwrV1VCgYo/ba5e654988b6fb5823cf72e3e189239d/html-css-coding-languages-for-kids.jpg?w=1280&h=718&fl=progressive&q=100&fm=jpg" width="350" height="250">
 #### Web Development notes
 ##### Web Development notes
 ###### Web Development notes
