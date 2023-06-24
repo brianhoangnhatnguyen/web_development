@@ -26,6 +26,7 @@
 * Image tag - displays an image. The image tag is self closing. That means there is no closing tag for it. (img)
 * Ordered list tag - makes an ordered list. It can be ordered in (ol /ol)
 * Unordered list tag - makes an unordered list. 
+<p>adfs</p>
 
 ## Other topics:
 * RGB - red, blue, green. (**red, blue, green**)
