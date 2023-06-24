@@ -1,6 +1,6 @@
 # Web Development notes
 ## Web Development notes
-### Web Development notes <img align='right' src="https://www.lighthouselabs.ca/uploads/post/open_graph_image/459/Coding-vs-programming.jpg" width="250" height="200">
+### Web Development notes <img align='right' src="https://www.lighthouselabs.ca/uploads/post/open_graph_image/459/Coding-vs-programming.jpg" width="600" height="400">
 #### Web Development notes
 ##### Web Development notes
 ###### Web Development notes
