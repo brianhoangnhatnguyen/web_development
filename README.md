@@ -10,7 +10,6 @@
 ### Here are all the topics I've learned. 
 
 ## HTML:
-
 ### Tags &nbsp;<img src="https://cdn3.emoji.gg/emojis/3773-active-developer-badge-animated.gif" width="25" height="25">:
 * Strong/Bold tag - make text **bolded.** (strong /strong)
 
@@ -26,9 +25,13 @@
 
 * Header tag - a sementic tag that targets the heading. (header /header)
 
+* Article tag - a sementic tag that targets the content on a page. (article /article)
+
 * Heading tag - makes a heading. (h1 /h1, h2 /h2, h3 /h3, h4 /h4, h5 /h5, and h6 /h6)
 
 * Doctype HTML - shows that the current document is HTML. (DOCTYPE html)
+
+* HTML tag - used to store all of the HTML code. (html /html)
 
 * Button tag - makes a button. (button /button)
 
@@ -44,18 +47,21 @@
 
 * Unordered list tag - makes an unordered list. The unordered list styles I know are circle and square. There are a shit ton of other unordered list styles though. You can give it a style using *style="list-style-type: ;".* (ul /ul) or (ul style="list-style-type: ;" /ul)
 
-* List tag - used with the ordered or unordered list tag to make a list item. (li /li)  
+* List tag - used with the ordered or unordered list tag to make a list item. (li /li)
 
-### Other topics (still HTML):
-* RGB - red, blue, green. Color values can go up to 255 in each column.(red, blue, green)
-
-* RGBA - red blue, green, alpha. Alpha is opacity. Alpha can values can range between 0 and 1.(red, blue, green, alpha)
-
-* Hexadecimal (color) - uses 16 characters: 10 numbers(0-9) and 6 alphabets(A-F). (#f00)
-
+### Other HTML topics: 
 * Classes - gives elements a class. Classes can be applied to multiple elements. (class="example")
 
 * IDs - gives an element an ID. IDs can only be used for one element.
+
+## CSS:
+* RGB -  a way of giving color to an element. It stands for red, blue, green. RGB values can go up to 255 in each column. (color: rgb(red, blue, green);)
+
+* RGBA - identical to RGB, but with a bonus feature. It stands for red blue, green, alpha(opacity). Alpha can values can range between 0 and 1. (color: rgba(red, blue, green, alpha);)
+
+* Hexadecimal (color) - another way of giving color to an element. This method uses 16 characters: 10 numbers(0-9) and 6 alphabets(A-F). (color: #f00;)
+
+* Color - gives an element a color. This method method uses a exisiting color. For example, red, yellow, blue, etc. (color: red;)
 
 * Targeting classes, ids. Use "." for classes and "#" for IDs
 
@@ -64,6 +70,7 @@
 * Padding - space between the element and border.
 
 * Margin - space between the border and outside.
+
 
 
 
