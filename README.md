@@ -8,7 +8,7 @@
 ### Here are all the topics I've learned:
 
 ## HTML:
-### Tags &nbsp;<img src="https://cdn3.emoji.gg/emojis/3773-active-developer-badge-animated.gif" width="25" height="25">:
+### Tags:
 * Strong/Bold Tag - make text **bolded.** (strong /strong)
 
 * Emphasize/Italic Tag - make text *italicized.* (em /em)
