@@ -11,7 +11,7 @@
 
 ## HTML:
 
-### Tags &nbsp;<img src="https://cdn3.emoji.gg/emojis/3773-active-developer-badge-animated.gif" width="30" height="30">:
+### Tags &nbsp;<img src="https://cdn3.emoji.gg/emojis/3773-active-developer-badge-animated.gif" width="25" height="25">:
 * Strong/Bold tag - make text **bolded.** (strong /strong)
 
 * Emphasize/Italicize tag - make text *italicized.* (em /em)
