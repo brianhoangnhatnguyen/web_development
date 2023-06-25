@@ -7,9 +7,11 @@
 
 **This is a repository for storing my web development notes.**
 
-### Here are all the topics I've learned. I will be including both CSS and HTML. 
+### Here are all the topics I've learned. 
 
-## Tags &nbsp;<img src="https://cdn3.emoji.gg/emojis/3773-active-developer-badge-animated.gif" width="30" height="30">:
+## HTML:
+
+### Tags &nbsp;<img src="https://cdn3.emoji.gg/emojis/3773-active-developer-badge-animated.gif" width="30" height="30">:
 * Strong/Bold tag - make text **bolded.** (strong /strong)
 
 * Emphasize/Italicize tag - make text *italicized.* (em /em)
@@ -44,7 +46,7 @@
 
 * List tag - used with the ordered or unordered list tag to make a list item. (li /li)  
 
-## Other topics:
+### Other topics (still HTML):
 * RGB - red, blue, green. Color values can go up to 255 in each column.(red, blue, green)
 
 * RGBA - red blue, green, alpha. Alpha is opacity. Alpha can values can range between 0 and 1.(red, blue, green, alpha)
