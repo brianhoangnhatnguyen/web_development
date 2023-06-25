@@ -59,9 +59,9 @@
 
 * RGBA - identical to RGB, but with a bonus feature. It stands for red blue, green, alpha(opacity). Alpha can values can range between 0 and 1. (color: rgba(red, blue, green, alpha); )
 
-* Hexadecimal (color) - another way of giving color to an element. This method uses 16 characters: 10 numbers(0-9) and 6 alphabets(A-F). (color: #f00;)
+* Hexadecimal (color) - another way of giving color to an element. This method uses 16 characters: 10 numbers(0-9) and 6 alphabets(A-F). (color: #f00; )
 
-* Color - gives an element a color. This method method uses a exisiting color. For example, red, yellow, blue, etc. (color: red;)
+* Color - gives an element a color. This method method uses an exisiting color. For example, red, yellow, blue, etc. (color: red; )
 
 * Targeting classes, ids. Use "." for classes and "#" for IDs
 
