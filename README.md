@@ -82,11 +82,11 @@
 
 * Pseudo Selectors - targets a special state of an element. (.button:hover{})
 
-* Universal Selectors - targets everything. (*{})
+* Universal Selectors - targets everything. (*{property goes inside here})
 
-* Element Selectors - targets an element. (h1{})
+* Element Selectors - targets an element. (h1{property goes inside here})
 
-* Class/ID Selectors - use "." for classes and "#" for ids. (.exampleclass{}) or (#exampleid{})
+* Class/ID Selectors - use "." for classes and "#" for ids. (.exampleclass{property goes inside here}) or (#exampleid{property goes inside here})
 
 
 
