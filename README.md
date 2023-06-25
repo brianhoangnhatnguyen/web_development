@@ -53,7 +53,7 @@
 
 * Meta Tag - shows what characters are allowed in the code. The meta tag is self closing. (meta charset="UTF-18")
 
-### Other HTML topics: 
+## Other HTML topics: 
 * Classes - gives elements a class. Classes can be applied to multiple elements. (class="example")
 
 * IDs - gives an element an ID. IDs can only be used for one element.
