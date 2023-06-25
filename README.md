@@ -11,43 +11,47 @@
 
 ## HTML:
 ### Tags &nbsp;<img src="https://cdn3.emoji.gg/emojis/3773-active-developer-badge-animated.gif" width="25" height="25">:
-* Strong/Bold tag - make text **bolded.** (strong /strong)
+* Strong/Bold Tag - make text **bolded.** (strong /strong)
 
-* Emphasize/Italicize tag - make text *italicized.* (em /em)
+* Emphasize/Italicize Tag - make text *italicized.* (em /em)
 
-* Div tag - used for putting elements in a box. (div /div)
+* Div Tag - used for putting elements in a box. (div /div)
 
-* Head tag - head of the page. (head /head)
+* Head Tag - head of the page. (head /head)
 
-* Body tag - body of the page. (body /body)
+* Body Tag - body of the page. (body /body)
 
-* Nav tag - a sementic tag that targets the navigation bar. (nav /nav)
+* Nav Tag - a sementic tag that targets the navigation bar. (nav /nav)
 
-* Header tag - a sementic tag that targets the heading. (header /header)
+* Header Tag - a sementic tag that targets the heading. (header /header)
 
-* Article tag - a sementic tag that targets the content on a page. (article /article)
+* Article Tag - a sementic tag that targets the content on a page. (article /article)
 
-* Heading tag - makes a heading. (h1 /h1, h2 /h2, h3 /h3, h4 /h4, h5 /h5, and h6 /h6)
+* Heading Tag - makes a heading. (h1 /h1, h2 /h2, h3 /h3, h4 /h4, h5 /h5, and h6 /h6)
 
 * Doctype HTML - shows that the current document is HTML. (DOCTYPE html)
 
-* HTML tag - used to store all of the HTML code. (html /html)
+* HTML Tag - used to store all of the HTML code. (html /html)
 
-* Button tag - makes a button. (button /button)
+* Button Tag - makes a button. (button /button)
 
-* Anchor tag - makes a hyperlink. The anchor tag is self closing, which means that there is no closing tag for it. (a href="examplelink.com" example text /a)
+* Anchor Tag - makes a hyperlink. The anchor tag is self closing, which means that there is no closing tag for it. (a href="examplelink.com" example text /a)
 
-* Anchor tag (target blank) - opens a hyperlink in another tab when clicked. (a href="examplelink.com" target="_blank" example text /a)
+* Anchor Tag (target blank) - opens a hyperlink in another tab when clicked. (a href="examplelink.com" target="_blank" example text /a)
 
-* Paragraph tag - makes a paragraph. (p /p)
+* Paragraph Tag - makes a paragraph. (p /p)
 
-* Image tag - displays an image. The image tag is self closing. (img src="https:://www.examplelink․com/examplelink․png")
+* Image Tag - displays an image. The image tag is self closing. (img src="https:://www.examplelink․com/examplelink․png")
 
-* Ordered list tag - makes an ordered list. There are 5 types of ordered lists. "1", "A", "a", "I", and "i". You can give it a type using *type="".*  (ol /ol) or (ol type="" /ol)
+* Ordered List Tag - makes an ordered list. There are 5 types of ordered lists. "1", "A", "a", "I", and "i". You can give it a type using *type="".*  (ol /ol) or (ol type="" /ol)
 
-* Unordered list tag - makes an unordered list. The unordered list styles I know are circle and square. There are a shit ton of other unordered list styles though. You can give it a style using *style="list-style-type: ;".* (ul /ul) or (ul style="list-style-type: ;" /ul)
+* Unordered List Tag - makes an unordered list. The unordered list styles I know are circle and square. There are a shit ton of other unordered list styles though. You can give it a style using *style="list-style-type: ;".* (ul /ul) or (ul style="list-style-type: ;" /ul)
 
-* List tag - used with the ordered or unordered list tag to make a list item. (li /li)
+* List Tag - used with the ordered or unordered list tag to make a list item. (li /li)
+
+* Break/Line Break Tag - skips a line. This tag doesn't a closing tag (I think). (br)
+
+* Link Tag - links a document to that HTML code. (link rel="stylesheet" href="style.css")
 
 ### Other HTML topics: 
 * Classes - gives elements a class. Classes can be applied to multiple elements. (class="example")
@@ -55,22 +59,34 @@
 * IDs - gives an element an ID. IDs can only be used for one element.
 
 ## CSS:
-* RGB -  a way of giving color to an element. It stands for red, blue, green. RGB values can go up to 255 in each column. (color: rgb(red, blue, green); )
+### Properties:
+* RGB - a way of giving color to an element. It stands for red, blue, green. RGB values can go up to 255 in each column. (color: rgb(red, blue, green); )
 
 * RGBA - identical to RGB, but with a bonus feature. It stands for red blue, green, alpha(opacity). Alpha can values can range between 0 and 1. (color: rgba(red, blue, green, alpha); )
 
-* Hexadecimal (color) - another way of giving color to an element. This method uses 16 characters: 10 numbers(0-9) and 6 alphabets(A-F). (color: #f00; )
+* Hexadecimal (color) - another way of giving color to an element. This method uses 16 characters: 10 numbers(0-9) and 6 alphabets(A-F). (color: #f00;)
 
-* Color - gives an element a color. This method method uses an exisiting color. For example, red, yellow, blue, etc. (color: red; )
+* Color - gives an element a color. This method method uses an exisiting color. For example, red, yellow, blue, etc. (color: red;)
 
-* Targeting classes, ids. Use "." for classes and "#" for IDs
+* Width - how wide an element is. You can set the width of an element by using pixels or a percentage. (width: 200px;) or (width: 50%;)
+
+* Height - how tall an element is. You can set the height of an element by using pixels or a percentage (although I don't use a percentage). (height: 200px;) or (height: 50%;)
+
+* Padding - the space between the element and border. You can give an element some padding by using pixels or auto (although I don't use auto). (padding: 10px;) or (padding: auto;)
+
+* Margin - the space between the border and outside. You can give an element some margin by using pixels or auto. (margin: 10px;) or (margin: auto;)
+
+* Import URL - I'm unsure at what it does, but I'm guessing it just imports a custom url to add something new to the CSS code. (@import url('https:://www․exampleurl․com'))
 
 * Selectors - used to target an element (pseudo selectors, universal selectors, element selectors, class/id selectors)
 
-* Padding - space between the element and border.
+* Pseudo Selectors - targets a special state of an element. (.button:hover{})
 
-* Margin - space between the border and outside.
+* Universal Selectors - targets everything. (*{})
 
+* Element Selectors - targets an element. (h1{})
+
+* Class/ID Selectors - use "." for classes and "#" for ids. (.exampleclass{}) or (#exampleid{})
 
 
 
