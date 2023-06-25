@@ -45,7 +45,7 @@
 
 * Ordered List Tag - makes an ordered list. There are 5 types of ordered lists. "1", "A", "a", "I", and "i". You can give it a type using *type="".*  (ol /ol) or (ol type="" /ol)
 
-* Unordered List Tag - makes an unordered list. The unordered list styles I know are circle and square. There are a shit ton of other unordered list styles though. You can give it a style using *style="list-style-type: ;".* (ul /ul) or (ul style="list-style-type: ;" /ul)
+* Unordered List Tag - makes an unordered list. The unordered list styles I know are circle and square. There are a ton of other unordered list styles though. You can give it a style using *style="list-style-type: ;".* (ul /ul) or (ul style="list-style-type: ;" /ul)
 
 * List Tag - used with the ordered or unordered list tag to make a list item. (li /li)
 
@@ -53,10 +53,15 @@
 
 * Link Tag - links a document to that HTML code. (link rel="stylesheet" href="style.css")
 
+* Meta Tag - shows what characters are allowed in the code. The meta tag is self closing. (meta charset="UTF-18")
+
 ### Other HTML topics: 
 * Classes - gives elements a class. Classes can be applied to multiple elements. (class="example")
 
 * IDs - gives an element an ID. IDs can only be used for one element.
+
+* Nbsp - creates a space. (&nbsp)
+
 
 ## CSS:
 ### Properties:
@@ -68,13 +73,37 @@
 
 * Color - gives an element a color. This method method uses an exisiting color. For example, red, yellow, blue, etc. (color: red;)
 
+* Background Color - the background color. (background-color: red;)
+
 * Width - how wide an element is. You can set the width of an element by using pixels or a percentage. (width: 200px;) or (width: 50%;)
 
 * Height - how tall an element is. You can set the height of an element by using pixels or a percentage (although I don't use a percentage). (height: 200px;) or (height: 50%;)
 
-* Padding - the space between the element and border. You can give an element some padding by using pixels or auto (although I don't use auto). (padding: 10px;) or (padding: auto;)
+* Padding - the space between the element and border. You can give an element some padding by using pixels or auto (although I don't use auto). You can also choose which way to add the padding like top, left, right, or bottom. (padding: 10px;) or (padding: auto;) or (padding-left: 10px;)
 
-* Margin - the space between the border and outside. You can give an element some margin by using pixels or auto. (margin: 10px;) or (margin: auto;)
+* Margin - the space between the border and outside. You can give an element some margin by using pixels or auto. You can also choose which way to add the margin like top, left, right, or bottom. (margin: 10px;) or (margin: auto;) or (margin-left: 10px;)
+
+* Font Family - what font a piece of text has. (font-family: 'Open Sans', sans-serif;)
+
+* Font Size - how big the text is. (font-size: 10px;)
+
+* Text Align - aligns a piece of text. (text-align: center;)
+
+* Font Weight - the weight of a piece of text. (font-weight: lighter;)
+
+* Line Height - the line height of a piece of text. This can affect the background color. (line-height: 3;)
+
+* Border - a border. You can give an element a border by first setting the pixels, then the type of border, and then the color of the border. (border: 2px solid blue;)
+
+* Border Radius - it's like the roundness of the corners of the border. This goes together with the border property if you want the corners to be rounder. (border-radius: 5px;)
+
+* Text Decoration - unsure about this one, but all I know is that it can remove the underline from a link. (text-decoration: none;)
+
+* Display - it like controls how much space is being taken. There are 3 types of "display". For example, inline only takes up space where the content is. Inline block takes up the whole line but also where the content is. Block however, takes up the whole line with no exceptions. (display: inline;)
+
+* Cursor - how the cursor looks when hovered over a button. (cursor: pointer;)
+
+## Other CSS topics:
 
 * Import URL - I'm unsure at what it does, but I'm guessing it just imports a custom url to add something new to the CSS code. (@import url('https:://www․exampleurl․com'))
 
@@ -87,6 +116,7 @@
 * Element Selectors - targets an element. (h1{property goes inside here})
 
 * Class/ID Selectors - use "." for classes and "#" for ids. (.exampleclass{property goes inside here}) or (#exampleid{property goes inside here})
+
 
 
 
