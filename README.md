@@ -107,7 +107,7 @@
 
 * Selectors - used to target an element (pseudo selectors, universal selectors, element selectors, class/id selectors)
 
-* Pseudo Selectors - targets a special state of an element. (.button:hover{})
+* Pseudo Selectors - targets a special state of an element. (.button:hover{property goes inside here})
 
 * Universal Selectors - targets everything. (*{property goes inside here})
 
