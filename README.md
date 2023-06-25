@@ -5,9 +5,7 @@
 ##### Web Development notes
 ###### Web Development notes
 
-**This is a repository for storing my web development notes.**
-
-### Here are all the topics I've learned. 
+### Here are all the topics I've learned:
 
 ## HTML:
 ### Tags &nbsp;<img src="https://cdn3.emoji.gg/emojis/3773-active-developer-badge-animated.gif" width="25" height="25">:
