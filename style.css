@@ -44,6 +44,9 @@ h1{
     color: white;
     padding: 8px;
 }
+.Navigation a:visited{
+    color: white;
+}
 .price{
     font-size: 30px;
     text-align: center;
@@ -53,7 +56,7 @@ h1{
     background-color: yellow;
     display: inline;
 }
-.shippingdiv{
+.shippingDiv{
     text-align: center;
 }
 .btn{
@@ -92,7 +95,4 @@ h1{
     width: 200px;
     margin-left: auto;
     margin-right: auto;
-}
-a:visited{
-    color: blue;
 }
