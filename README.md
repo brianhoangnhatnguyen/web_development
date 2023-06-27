@@ -53,6 +53,12 @@
 
 * Meta Tag - shows what characters are allowed in the code. The meta tag is self closing. (meta charset="UTF-18")
 
+* Form Tag - the outline where everything goes. For example, inputs. (form /form)
+
+* Input Tag - lets you input something. This is a self closing tag. (input type="type goes here" value"something here" id"id goes here")
+
+* Label Tag - a paragraph but inline. (label /label)
+
 ## Other HTML topics: 
 * Classes - gives elements a class. Classes can be applied to multiple elements. (class="example")
 
