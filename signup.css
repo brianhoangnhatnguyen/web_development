@@ -37,3 +37,13 @@ h1{
 .Navigation a:visited{
     color: white;
 }
+input, label{
+    font-size: 25px;
+    margin: 5px;
+}
+form{
+    text-align: center;
+}
+.signupDiv{
+    margin: 10px;
+}
