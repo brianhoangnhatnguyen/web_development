@@ -9,9 +9,9 @@ footer{
     text-align: center;
 }
 nav{
-    font-size: 22px;
-    line-height: 3;
     background-color: #232F3E;
+    padding-bottom: 10px;
+    height: 75px;
 }
 p{
     font-size: 20px; 
@@ -31,20 +31,28 @@ h1{
     font-weight: normal;
     font-size: 45px;
     text-align: center;
-    margin-bottom: 50px;
-    margin-top: 50px;
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
-.Navigation:hover{
+.NavigationZamazon:hover{
     border: 1px solid white;
     border-radius: 5px;
 }
-.Navigation{
+.NavigationZamazon{
     text-decoration: none;
     color: white;
     padding: 8px;
+    margin-bottom: 20px;
+    font-size: 27px;
 }
-.Navigation a:visited{
+.NavigationZamazon a:visited{
     color: white;
+}
+.navBarZamazon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 515px;
 }
 .price{
     font-size: 30px;
@@ -95,6 +103,11 @@ h1{
     margin-left: auto;
     margin-right: auto;
 }
+.Logo{
+    margin-bottom: -47px;
+    width: 160px;
+    margin-left: 20px;
+}
 
 /* contact.html */
 
@@ -110,5 +123,26 @@ h1{
     font-size: 30px;
 }
 .contactUs{
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
+.NavigationContact:hover{
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.NavigationContact{
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+    margin-bottom: 20px;
+    font-size: 27px;
+}
+.NavigationContact a:visited{
+    color: white;
+}
+.navBarContact{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 515px;
+}
+/* signup.html, login.html */
