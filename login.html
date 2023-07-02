@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Create a Zamazon account</title>
+        <title>Login</title>
         <meta charset="UTF-18">
         <link rel="stylesheet" href="style.css">
     </head>
@@ -18,11 +18,36 @@
         </nav>
 
         <header>
-            <h1>Login to your Zamazon account</h1>
+            <h1 class="loginHeading">Login to your Zamazon account</h1>
         </header>
 
         <article>
-            
+            <p class="loginDescription">Welcome back! Login to an account.</p>
+            <form>
+                <div class="theeDiv">
+                    <label for="Firstname">First Name:</label>
+                    <input type="text" value="" id="Firstname">
+                </div>
+
+                <div class="theeDiv">
+                    <label for="Lastname">Last Name:</label>
+                    <input type="text" value="" id="Lastname">
+                </div>
+
+                <div class="theeDiv">
+                    <label for="email">Email:</label>
+                    <input type="email" value="" id="email">
+                </div>
+
+                <div class="theeDiv">
+                    <label for="password">Password:</label>
+                    <input type="password" value="" id="password">
+                </div>
+
+                <div class="theeDiv">
+                    <input type="button" value="Login" class="loginButton">
+                </div>
+            </form>
         </article>
     </body>
 </html>
