@@ -34,21 +34,21 @@ h1{
     margin-bottom: 40px;
     margin-top: 40px;
 }
-.NavigationZamazon:hover{
+.Navigation:hover{
     border: 1px solid white;
     border-radius: 5px;
 }
-.NavigationZamazon{
+.Navigation{
     text-decoration: none;
     color: white;
     padding: 8px;
     margin-bottom: 20px;
     font-size: 27px;
 }
-.NavigationZamazon a:visited{
+.Navigation a:visited{
     color: white;
 }
-.navBarZamazon{
+.navBar{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -125,24 +125,5 @@ h1{
 .contactUs{
     margin-bottom: 30px;
 }
-.NavigationContact:hover{
-    border: 1px solid white;
-    border-radius: 5px;
-}
-.NavigationContact{
-    text-decoration: none;
-    color: white;
-    padding: 8px;
-    margin-bottom: 20px;
-    font-size: 27px;
-}
-.NavigationContact a:visited{
-    color: white;
-}
-.navBarContact{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 515px;
-}
+
 /* signup.html, login.html */
