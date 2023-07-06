@@ -1,0 +1,18 @@
+@import url('https://fonts.cdnfonts.com/css/amazon-ember');
+
+*{
+    font-family: 'Amazon Ember V2', sans-serif;
+}
+.btnSignUp{
+    background-color: rgb(254, 216, 19);
+    border: 0.1px solid rgb(254, 216, 19);
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    width: 250px;
+    font-family: 'Amazon Ember V2', sans-serif;
+}
+.paragraph{
+    font-size: 20px;
+    width: 200px;
+}
