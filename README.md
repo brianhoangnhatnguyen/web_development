@@ -19,11 +19,11 @@
 
 * Body Tag - body of the page. (body /body)
 
-* Nav Tag - a sementic tag that targets the navigation bar. (nav /nav)
+* Nav Tag - a semantic tag that targets the navigation bar. (nav /nav)
 
-* Header Tag - a sementic tag that targets the heading. (header /header)
+* Header Tag - a semantic tag that targets the heading. (header /header)
 
-* Article Tag - a sementic tag that targets the content on a page. (article /article)
+* Article Tag - a semantic tag that targets the content on a page. (article /article)
 
 * Heading Tag - makes a heading. (h1 /h1, h2 /h2, h3 /h3, h4 /h4, h5 /h5, and h6 /h6)
 
