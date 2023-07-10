@@ -131,7 +131,7 @@
 
 * If the text is *white*, git push.
 
-## VS Code:
+## VS Code Shortcuts:
 
 * Ctrl + Forward slash - makes a comment.
 
