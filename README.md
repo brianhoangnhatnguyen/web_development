@@ -121,6 +121,40 @@
 
 * Class/ID Selectors - use "." for classes and "#" for ids. (.exampleclass{property goes inside here}) or (#exampleid{property goes inside here})
 
+## Git Bash:
+
+* If the text is *red*, git add .
+
+* If the text is *green*, git commit -m "example message".
+
+* If the text is *yellow*, git pull (also run it when making a new repository to merge the changes from both GitHub and local repository).
+
+* If the text is *white*, git push.
+
+## Bootstrap 5:
+
+* Warning - yellow.
+
+* Secondary - grey.
+
+* Primary - blue.
+
+* Success - green.
+
+* Light - white.
+
+* Dark - black.
+
+* Info - cyan.
+
+* Danger - red.
+
+* Carousel - sliding images.
+
+* Navbar - a navbar, but with Bootstrap.
+
+* Card - a box with an image, then the description, and finally the button.
+
 
 
 
