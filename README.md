@@ -137,6 +137,8 @@
 
 * Ctrl + Backslash - creates another screen with the same file.
 
+* Alt + Left Click - selects multiple spaces.
+
 ## Bootstrap 5:
 
 * Warning - yellow.
