@@ -131,6 +131,12 @@
 
 * If the text is *white*, git push.
 
+## VS Code:
+
+* Ctrl + Forward slash - makes a comment.
+
+* Ctrl + Backslash - creates another screen with the same file.
+
 ## Bootstrap 5:
 
 * Warning - yellow.
