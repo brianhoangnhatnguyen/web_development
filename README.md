@@ -59,6 +59,8 @@
 
 * Label Tag - a paragraph but inline. (label /label)
 
+* Script Tag - links a Javascript file.
+
 ## Other HTML topics: 
 * Classes - gives elements a class. Classes can be applied to multiple elements. (class="example")
 
@@ -121,6 +123,14 @@
 
 * Class/ID Selectors - use "." for classes and "#" for ids. (.exampleclass{property goes inside here}) or (#exampleid{property goes inside here})
 
+## Javascript:
+
+* Document - the whole page. (document)
+
+* Query Selector - selects classes or ids from the page. (querySelector)
+
+* Text Content - the content of the text. (textContent)
+
 ## Git Bash:
 
 * If the text is *red*, git add .
@@ -162,6 +172,12 @@
 * Navbar - a navbar, but with Bootstrap.
 
 * Card - a box with an image, then the description, and finally the button.
+
+* Background - the background color. We use bg- to set a background color. For example bg-dark is black.
+
+* Gradient - the gradient of the background color. We use bg-gradient to add a gradient to the background color. For example, bg-dark bg-gradient is black with a gradient.
+
+
 
 
 
