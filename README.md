@@ -131,6 +131,24 @@
 
 * Text Content - the content of the text. (textContent)
 
+* Console - the console in inspect element.
+
+* Log - logs something in the console.
+
+### Naming conventions:
+
+* Variable names cannot start with a number. (98variable)
+
+* Variable names cannot start with a symbol other than _ and $. ($_variable)
+
+* Variable names cannot have spaces. (variable name)
+
+* Variable names cannot contain reserved keywords. (for)
+
+* Variable names can start with upper or lower case letters. (VAriaBle)
+
+* Variable names can be as long as possible. *(variablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariable)*
+
 ## Git Bash:
 
 * If the text is *red*, git add .
