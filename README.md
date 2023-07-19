@@ -149,6 +149,20 @@
 
 * Variable names can be as long as possible. *(variablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariablevariable)*
 
+### Datatypes:
+
+* Number - int, double, float.
+
+* String - "a" or 'a'.
+
+* Boolean - true/false.
+
+* Undefined - no value.
+
+* Null - empty value (not no value, empty value. which is a value but it's empty).
+
+* Bigint - large integer.
+
 ## Git Bash:
 
 * If the text is *red*, git add .
