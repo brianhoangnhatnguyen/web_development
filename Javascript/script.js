@@ -63,3 +63,36 @@ document.querySelector("#anotherJavascriptHeading").textContent="HIIIIIIIIIIIIII
 //  Add an 'n' to show bigint
 // let a = 1n;
 // console.log(typeof a);
+
+// Let, var, and const
+
+// let a = 234;
+// console.log(a);
+
+// a = 123123;
+// console.log(a);
+
+// var b = 234;
+// console.log(b);
+
+// b = 123;
+// console.log(b); 
+
+// const c = 123123123123;
+// console.log(c);
+
+
+// You can assign a value to a var variable even if you haven't declared it yet
+// Let however, you can ONLY assign a value AFTER you've declared it.
+
+// me = 99999;
+// var me;
+// console.log(me);
+
+// Arithmetic operators: (+, -, *, /, %, **)
+// console.log(3+2)
+// console.log(3-2)
+// console.log(3*2)
+// console.log(3/2)
+// console.log(34%3)
+// console.log(3**2)
