@@ -217,3 +217,15 @@ console.log(age);
 // else{
 //     console.log("Default value");
 // }
+
+// and
+// console.log(22&11);
+
+// or
+// console.log(22|11);
+
+// not
+// console.log(!13);
+
+// xor
+// console.log(13^10);
