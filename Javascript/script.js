@@ -1,4 +1,4 @@
-document.querySelector(".javascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
+document.querySelector(".JavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
 document.querySelector("#anotherJavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
 
 // console.log("YOOO WHAT'S UP GUYS")
@@ -229,3 +229,7 @@ console.log(age);
 
 // xor
 // console.log(13^10);
+
+// DOM Manipulation
+document.querySelector(".JavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
+document.getElementById("anotherJavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
