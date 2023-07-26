@@ -1,0 +1,28 @@
+@font-face {
+    font-family: NetflixMedium;
+    src: url(Fonts/Netflix\ Sans\ Medium.otf);
+}
+@font-face {
+    font-family: NetflixRegular;
+    src: url(Fonts/NetflixSans-Regular.otf);
+}
+
+.hi{
+    background-color: black;
+}
+.netflixLogo{
+    width: 182.4px;
+    margin-left: 348px;
+    margin-top: -11px;
+}
+.signIn{
+    border: 0.1px solid #E50914;
+    border-radius: 4px;
+    background-color: #E50914;
+    padding: 3px;
+    width: 78px;
+    margin-left: 925px;
+    font-family: NetflixMedium;
+    color: white;
+    font-size: 14px;
+}

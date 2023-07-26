@@ -230,6 +230,18 @@ console.log(age);
 // xor
 // console.log(13^10);
 
-// DOM Manipulation
+// DOM Manipulation: changing the HTML page using Javascript
 document.querySelector(".JavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
 document.getElementById("anotherJavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
+
+// CSS using Javascript
+document.querySelector(".bgcolor").style.backgroundColor = "rgb(255, 255, 192)";
+document.querySelector(".JavascriptHeading").style.color = "rgb(255, 190, 100)";
+document.querySelector(".JavascriptHeading").style.fontSize = "20px";
+
+const nazi = document.querySelectorAll(".germany");
+for (let i = 0; i < nazi.length; i++) {
+    nazi[i].style.fontSize = "30px";
+    nazi[i].style.display = "inline";
+    nazi[i].style.color = "rgb(200, 182, 100)";   
+}
