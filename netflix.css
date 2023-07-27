@@ -1,28 +1,40 @@
 @font-face {
+    font-family: Netflix;
+    src: url(Fonts/NetflixSans-Regular.otf);
+}
+@font-face {
     font-family: NetflixMedium;
     src: url(Fonts/Netflix\ Sans\ Medium.otf);
 }
-@font-face {
-    font-family: NetflixRegular;
-    src: url(Fonts/NetflixSans-Regular.otf);
+body{
+    background-image: url(Images/netflix.jpg);
 }
-
 .hi{
     background-color: black;
 }
 .netflixLogo{
-    width: 182.4px;
-    margin-left: 348px;
-    margin-top: -11px;
+    width: 158px;
+    margin-left: 360px;
+    margin-top: -2px;
 }
 .signIn{
     border: 0.1px solid #E50914;
     border-radius: 4px;
     background-color: #E50914;
-    padding: 3px;
-    width: 78px;
-    margin-left: 925px;
+    width: 77px;
+    margin-left: 800px;
+    margin-top: 27px;
     font-family: NetflixMedium;
     color: white;
     font-size: 14px;
+    height: 32px;
+}
+.languageSelect{
+    font-family: Netflix;
+    width: 120px;
+    padding: 4px;
+    color: white;
+    background-color: rgba(15, 15, 15, 0.7);
+    border: 1.7px solid #5F5E5E;
+    border-radius: 4px;
 }
