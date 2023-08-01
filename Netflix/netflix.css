@@ -1,21 +1,21 @@
 @font-face {
     font-family: Netflix;
-    src: url(Fonts/NetflixSans-Regular.otf);
+    src: url("Netflix Fonts/NetflixSans-Regular.otf");
 }
 @font-face {
     font-family: NetflixMedium;
-    src: url(Fonts/Netflix\ Sans\ Medium.otf);
+    src: url("Netflix Fonts/Netflix\ Sans\ Medium.otf");
 }
 @font-face {
     font-family: NetflixLight;
-    src: url(Fonts/Netflix\ Sans\ Light.otf);
+    src: url("Netflix Fonts/Netflix\ Sans\ Light.otf");
 }
 @font-face {
     font-family: NetflixBold;
-    src: url(Fonts/Netflix\ Sans\ Bold.otf);
+    src: url("Netflix Fonts/Netflix\ Sans\ Bold.otf");
 }
 body{
-    background-image: url(Images/netflix.png);
+    background-image: url(netflix.png);
 }
 .hi{
     background-color: black;
@@ -74,8 +74,8 @@ body{
     background-color: rgba(22, 22, 22, 0.7);
     border: 1.7px solid #5F5E5E;
     border-radius: 4px;
+    height: 62px;
     width: 380px;
-    height: 57px;
     margin-left: 655px;
     margin-right: 5px;
     padding-left: 15px;
@@ -93,4 +93,10 @@ body{
     font-family: NetflixMedium;
     height: 62px;
     width: 200px;
+}
+#asdf:focus::-webkit-input-placeholder { 
+    font-size: 13px;
+    bottom: 17px;
+    position: relative;
+    margin-bottom: 10px;
 }
