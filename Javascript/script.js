@@ -245,3 +245,20 @@ for (let i = 0; i < nazi.length; i++) {
     nazi[i].style.display = "inline";
     nazi[i].style.color = "rgb(200, 182, 100)";   
 }
+
+// declaring a function in javascript starts with the function keyword
+
+// function greeting(message) {
+//     alert("hi " + message)
+// }
+// greeting("brian")
+
+// prompt is user input and any input counts as a string
+// if you want to input numbers then you have to typecast it
+// typecasting is converting one datatype into another
+
+function annoying() {
+    for (let i = 0; i < 999999999999999999; i++) {    
+        alert("You actually fell for it 💀")
+    }
+}
