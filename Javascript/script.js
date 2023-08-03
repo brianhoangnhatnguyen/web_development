@@ -1,5 +1,5 @@
-document.querySelector(".JavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
-document.querySelector("#anotherJavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
+// document.querySelector(".JavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
+// document.querySelector("#anotherJavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
 
 // console.log("YOOO WHAT'S UP GUYS")
 
@@ -231,8 +231,8 @@ console.log(age);
 // console.log(13^10);
 
 // DOM Manipulation: changing the HTML page using Javascript
-document.querySelector(".JavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
-document.getElementById("anotherJavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
+// document.querySelector(".JavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
+// document.getElementById("anotherJavascriptHeading").textContent="HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
 
 // CSS using Javascript
 document.querySelector(".bgcolor").style.backgroundColor = "rgb(255, 255, 192)";
@@ -262,3 +262,24 @@ function annoying() {
         alert("You actually fell for it 💀")
     }
 }
+
+function button() {
+    document.querySelector(".button").innerHTML="butotn"
+}
+
+function button2() {
+    document.querySelector(".button2").style.fontSize="200px"
+    document.querySelector(".button2").style.color="rgba(0,0,0,0.6)"
+    document.querySelector(".button2").style.backgroundImage="url('https://upload.wikimedia.org/wikipedia/commons/2/23/US_one_dollar_bill%2C_obverse%2C_series_2009.jpg') "
+    document.querySelector(".button2").style.backgroundSize="cover"
+    document.querySelector(".button2").innerHTML="Inflation"
+}
+
+function noInflation() {
+    const element = document.querySelector('.button2')
+    element.style.removeProperty("backgroundImage")
+    element.style.removeProperty("backgroundSize")
+}
+
+document.querySelector(".button2").addEventListener("click", button2)
+document.querySelector(".button2").addEventListener("mouseout", noInflation)
